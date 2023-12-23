@@ -1,4 +1,4 @@
-target(<{bndrs211}>
+target(<{bndrs211/reapers211}>
     name = "faiss",
     dependencies = [
         "ann/src/main/java/com/twitter/ann/faiss/swig:swig-artifactory",
